@@ -56,7 +56,7 @@ function getRandomInt(max) {
 
 function pet() {
     petButton.style.display = "none";
-    vid.src = vid.src.split(".")[0] + "-pet.mp4";
+    vid.src = dir + "/" + ind + "-pet.mp4";
 }
 
 function feed() {
