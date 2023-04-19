@@ -1,0 +1,57 @@
+body {
+    text-align: center;
+    background-color:#cfe6ff;
+  }
+  
+  .material-icons {
+    font-size:75px;
+  }
+  
+  .content {
+    margin: 0px auto 0px;
+    height:90vh;
+  }
+  
+  #title {
+    font-size:100px;
+  }
+  
+  #searchIcon {
+    font-size:20px;
+  }
+  
+  #errMsg {
+    font-size:30px;
+    color:red;
+  }
+  
+  .res {
+    width:13vw;
+    height:13vw;
+  }
+  
+  a {
+    position: fixed;
+    top: 1em;
+    right: 1em;
+    font-size:20px;
+  }
+  
+  
+  button, .inp
+  {
+    font-size:20px;
+    height:25px;
+    border:none;
+  }
+  
+  button {
+    background-color:#0099ff;
+    color:white;
+    
+  }
+  
+  button:hover, button:active
+  {
+    background-color:blue;
+  }
