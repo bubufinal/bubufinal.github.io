@@ -71,7 +71,7 @@ function feed() {
 
 function eat() {
     eatButton.style.display = "none";
-    disp("videos/eat", 1, "Bubu is enjoying his meal");
+    disp("videos/eat", 2, "Bubu is enjoying his meal");
 }
 
 function basement() {
